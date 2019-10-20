@@ -1,0 +1,9 @@
+# netbeans project files
+nbproject
+
+# composer vendor dir
+/vendor/
+
+# cache, logs, etc...
+/app/cache/
+/app/logs/
